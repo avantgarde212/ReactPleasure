@@ -1,0 +1,10 @@
+console.log("2022년 08월 30일 시작");
+console.log("2022년 08월 30일 시작");
+const a = 5;
+const b = 2;
+console.log(a/b);
+console.log(a+b);
+console.log(a*b);
+const imsmart = true;
+let something = "goodboy";
+console.log(something, imsmart);
